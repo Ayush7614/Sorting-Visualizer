@@ -13,6 +13,11 @@ Sorting is commonly used as the introductory problem in various Computer Science
 
 Without loss of generality, we assume that we will sort only Integers, not necessarily distinct, in non-decreasing order in this visualization. Try clicking Bubble Sort for a sample animation of sorting the list of 5 jumbled integers (with duplicate) above.
 
+## Owner
+
+* [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
+* [Live Preview]()
+
 
 
 
